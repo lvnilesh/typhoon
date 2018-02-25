@@ -5,6 +5,7 @@ Notable changes between versions.
 ## Latest
 
 * Upgrade etcd from v3.2.15 to v3.3.1
+* Update Calico from v3.0.2 to v3.0.3
 * Use kubernetes-incubator/bootkube v0.10.0
 
 #### AWS
